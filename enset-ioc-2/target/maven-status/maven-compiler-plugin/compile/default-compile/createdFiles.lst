@@ -1,0 +1,10 @@
+pres\PresSpringXML.class
+pres\Presentation.class
+metier\MetierImpl.class
+ext\DaoImplVWS.class
+dao\IDao.class
+metier\IMetier.class
+pres\PresStringAnnotations.class
+dao\DaoImpl.class
+pres\Pres2.class
+ext\DaoImpl2.class
